@@ -627,6 +627,7 @@ class DashboardContainerState extends State<DashboardContainer> {
                         ));
                 break;
 
+
               case 'DIRECTIONS':
                 _launchWebsiteURL(
                     'http://maps.google.com/maps?daddr=11.668654 78.143184');
