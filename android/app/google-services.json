@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838724224360",
+    "project_id": "sigma-appointments",
+    "storage_bucket": "sigma-appointments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838724224360:android:22e50a533acbb3693ec2dd",
+        "android_client_info": {
+          "package_name": "in.sigmacomputers.hospitalappointments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838724224360-49lj2lcd6amg70hjpe16ssinf9crurq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGRKh81H2hSf1IIttNQZi0ynZPcGWy8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838724224360-49lj2lcd6amg70hjpe16ssinf9crurq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
